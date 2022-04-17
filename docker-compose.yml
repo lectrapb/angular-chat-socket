@@ -7,7 +7,7 @@ services:
     hostname: mongo
     restart: always
     environment: 
-      TZ: "America/Bogota" #Time zone
+      TZ: "America/Bogota" #Time zone south america
       MONGO_INITDB_ROOT_USERNAME: "devuser"
       MONGO_INITDB_ROOT_PASSWORD: "devpassword"
     volumes:
