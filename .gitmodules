@@ -1,0 +1,6 @@
+[submodule "angular-chat-socket-broker"]
+	path = angular-chat-socket-broker
+	url = https://github.com/lectrapb/angular-chat-socket-broker.git
+[submodule "angular-chat-socket-front"]
+	path = angular-chat-socket-front
+	url = https://github.com/lectrapb/angular-chat-socket-front.git
